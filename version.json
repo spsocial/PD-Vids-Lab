@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.6/PD-Vids-Lab-v1.0.6.zip",
-  "changelog": "✍️ บทพูดสดใหม่ทุกคลิป — Google Vids คิดบทพูดเองตามบรีฟ (สินค้า · สไตล์ภาพ 97 แบบ · โครงเรื่อง 18 แนว · ภาษา · เพศ) ไม่ต้องรอ AI เขียนบทก่อน เริ่มทำคลิปได้ไวขึ้น",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.7/PD-Vids-Lab-v1.0.7.zip",
+  "changelog": "📏 ขนาดสินค้าสมจริงตามของจริง — ของใหญ่/หนัก (เครื่องซักผ้า ตู้เย็น ฯลฯ) ตั้งบนพื้นแล้วยืนข้างๆ ไม่ยกถือเหมือนของเล่นแล้ว",
   "versions": [
+    {
+      "version": "1.0.7",
+      "date": "2026-10-16",
+      "changelog": "📏 ขนาดสินค้าสมจริงตามของจริง — ของใหญ่/หนัก (เครื่องซักผ้า ตู้เย็น ฯลฯ) ตั้งบนพื้นแล้วยืนข้างๆ ไม่ยกถือเหมือนของเล่นแล้ว",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.7/PD-Vids-Lab-v1.0.7.zip"
+    },
     {
       "version": "1.0.6",
       "date": "2026-10-16",
