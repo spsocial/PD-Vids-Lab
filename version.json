@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.2/PD-Vids-Lab-v1.0.2.zip",
-  "changelog": "📖 ปุ่ม 'วิธีใช้' + คู่มือเริ่มต้น 5 ขั้น (เปิดให้เองครั้งแรก) · 📜 บันทึกการทำงานไม่หายแล้วตอนบอทกำลังทำงาน (กลับมาหน้านี้เห็น log ครบ)",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.3/PD-Vids-Lab-v1.0.3.zip",
+  "changelog": "🪧 ติ๊กทำภาพหน้าปกแปะหน้าคลิปได้แล้ว — สร้างด้วย Gemini บัญชี Google เดียวกับ Vids (ไม่เสียเงินเพิ่ม) · เลือกสไตล์ปก + พาดหัว + ค้างปก 0.3/0.5/1 วิ",
   "versions": [
+    {
+      "version": "1.0.3",
+      "date": "2026-10-16",
+      "changelog": "🪧 ติ๊กทำภาพหน้าปกแปะหน้าคลิปได้แล้ว — สร้างด้วย Gemini บัญชี Google เดียวกับ Vids (ไม่เสียเงินเพิ่ม) · เลือกสไตล์ปก + พาดหัว + ค้างปก 0.3/0.5/1 วิ",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.3/PD-Vids-Lab-v1.0.3.zip"
+    },
     {
       "version": "1.0.2",
       "date": "2026-10-16",
