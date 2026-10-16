@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.1/PD-Vids-Lab-v1.0.1.zip",
-  "changelog": "🟢 ชิปสถานะมุมขวาบนบอกตามจริง — เขียว = พร้อม · เหลือง = เปิดอยู่แต่แท็บพัก (กดสร้างคลิปแล้วปลุกให้เอง) · เทา = ยังไม่เปิด/ยังไม่ล็อกอิน (เดิมเทาค้างทั้งที่ใช้งานได้)",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.2/PD-Vids-Lab-v1.0.2.zip",
+  "changelog": "📖 ปุ่ม 'วิธีใช้' + คู่มือเริ่มต้น 5 ขั้น (เปิดให้เองครั้งแรก) · 📜 บันทึกการทำงานไม่หายแล้วตอนบอทกำลังทำงาน (กลับมาหน้านี้เห็น log ครบ)",
   "versions": [
+    {
+      "version": "1.0.2",
+      "date": "2026-10-16",
+      "changelog": "📖 ปุ่ม 'วิธีใช้' + คู่มือเริ่มต้น 5 ขั้น (เปิดให้เองครั้งแรก) · 📜 บันทึกการทำงานไม่หายแล้วตอนบอทกำลังทำงาน (กลับมาหน้านี้เห็น log ครบ)",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.2/PD-Vids-Lab-v1.0.2.zip"
+    },
     {
       "version": "1.0.1",
       "date": "2026-10-16",
