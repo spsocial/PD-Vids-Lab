@@ -1,9 +1,20 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.0/PD-Vids-Lab-v1.0.0.zip",
-  "changelog": "🎥 เปิดตัว PD Vids Lab — เลือกสินค้าจาก TikTok แล้วให้ Google Vids ทำคลิปพากย์ไทยให้อัตโนมัติ (ต่อฉากได้ถึง 4 ฉาก) · โพส TikTok ต่อได้เลย",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.1/PD-Vids-Lab-v1.0.1.zip",
+  "changelog": "🟢 ชิปสถานะมุมขวาบนบอกตามจริง — เขียว = พร้อม · เหลือง = เปิดอยู่แต่แท็บพัก (กดสร้างคลิปแล้วปลุกให้เอง) · เทา = ยังไม่เปิด/ยังไม่ล็อกอิน (เดิมเทาค้างทั้งที่ใช้งานได้)",
   "versions": [
-    { "version": "1.0.0", "date": "2026-10-16", "changelog": "🎥 เปิดตัว PD Vids Lab", "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.0/PD-Vids-Lab-v1.0.0.zip" }
+    {
+      "version": "1.0.1",
+      "date": "2026-10-16",
+      "changelog": "🟢 ชิปสถานะมุมขวาบนบอกตามจริง — เขียว = พร้อม · เหลือง = เปิดอยู่แต่แท็บพัก (กดสร้างคลิปแล้วปลุกให้เอง) · เทา = ยังไม่เปิด/ยังไม่ล็อกอิน (เดิมเทาค้างทั้งที่ใช้งานได้)",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.1/PD-Vids-Lab-v1.0.1.zip"
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-16",
+      "changelog": "🎥 เปิดตัว PD Vids Lab",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.0/PD-Vids-Lab-v1.0.0.zip"
+    }
   ]
 }
