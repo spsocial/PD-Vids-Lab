@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.7",
+  "latest": "1.0.8",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.7/PD-Vids-Lab-v1.0.7.zip",
-  "changelog": "📏 ขนาดสินค้าสมจริงตามของจริง — ของใหญ่/หนัก (เครื่องซักผ้า ตู้เย็น ฯลฯ) ตั้งบนพื้นแล้วยืนข้างๆ ไม่ยกถือเหมือนของเล่นแล้ว",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.8/PD-Vids-Lab-v1.0.8.zip",
+  "changelog": "⏱️ ฉากสุดท้ายพูดจบประโยคก่อนคลิปจบ ไม่พูดค้าง · 📏 ขนาดสินค้าสมจริง (ของใหญ่ไม่ยกถือ)",
   "versions": [
+    {
+      "version": "1.0.8",
+      "date": "2026-10-16",
+      "changelog": "⏱️ ฉากสุดท้ายพูดจบประโยคก่อนคลิปจบ ไม่พูดค้าง · 📏 ขนาดสินค้าสมจริง (ของใหญ่ไม่ยกถือ)",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.8/PD-Vids-Lab-v1.0.8.zip"
+    },
     {
       "version": "1.0.7",
       "date": "2026-10-16",
