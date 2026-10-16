@@ -1,9 +1,15 @@
 {
-  "latest": "1.0.4",
+  "latest": "1.0.5",
   "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.4/PD-Vids-Lab-v1.0.4.zip",
-  "changelog": "🔌 แก้กดสร้างคลิปแล้วปุ่มไม่เปลี่ยน + บันทึกการทำงานเงียบ (ทั้งที่บอททำงานอยู่) — หน้าบอทต่อสายกับตัวทำงานใหม่เองอัตโนมัติ · ปุ่มเปลี่ยนสถานะทันทีที่กด กันกดซ้ำ",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.5/PD-Vids-Lab-v1.0.5.zip",
+  "changelog": "👤 เลือกเพศคนในรูปที่แนบได้ (ผู้ชาย/ผู้หญิง) — บทเรียกคนถูก + ลงท้าย ครับ/ค่ะ ตรง (เดิม AI เดาเป็น 'หญิงสาว' เพราะมองไม่เห็นรูป) · ไม่เลือก = AI ไม่เดาเพศ",
   "versions": [
+    {
+      "version": "1.0.5",
+      "date": "2026-10-16",
+      "changelog": "👤 เลือกเพศคนในรูปที่แนบได้ (ผู้ชาย/ผู้หญิง) — บทเรียกคนถูก + ลงท้าย ครับ/ค่ะ ตรง (เดิม AI เดาเป็น 'หญิงสาว' เพราะมองไม่เห็นรูป) · ไม่เลือก = AI ไม่เดาเพศ",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.5/PD-Vids-Lab-v1.0.5.zip"
+    },
     {
       "version": "1.0.4",
       "date": "2026-10-16",
