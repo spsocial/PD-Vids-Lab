@@ -1,6 +1,14 @@
 {
-  "latest": "1.0.9",
-  "releaseDate": "2026-10-18",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.9/PD-Vids-Lab-v1.0.9.zip",
-  "changelog": "🩹 Google Vids ปฏิเสธพรอมต์ → ข้ามไปคลิปถัดไปทันที ไม่ค้างรอ 8 นาที"
+  "latest": "1.0.10",
+  "releaseDate": "2026-11-05",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.10/PD-Vids-Lab-v1.0.10.zip",
+  "changelog": "💬 ปุ่มแจ้งปัญหา / เสนอแนะ (มุมซ้ายล่าง) — ส่งเรื่องถึงทีมได้ตรงจากในบอท แนบรูปได้ · ทีมตอบกลับในแท็บ \"เรื่องของฉัน\" (มีจุดแดงเมื่อมีคำตอบ) · กดยืนยัน หายแล้ว / ยังไม่หาย ได้",
+  "versions": [
+    {
+      "version": "1.0.10",
+      "date": "2026-11-05",
+      "changelog": "💬 ปุ่มแจ้งปัญหา / เสนอแนะ (มุมซ้ายล่าง) — ส่งเรื่องถึงทีมได้ตรงจากในบอท แนบรูปได้ · ทีมตอบกลับในแท็บ \"เรื่องของฉัน\" (มีจุดแดงเมื่อมีคำตอบ) · กดยืนยัน หายแล้ว / ยังไม่หาย ได้",
+      "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.10/PD-Vids-Lab-v1.0.10.zip"
+    }
+  ]
 }
