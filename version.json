@@ -1,9 +1,14 @@
 {
-  "latest": "1.0.12",
+  "latest": "1.0.13",
   "releaseDate": "2026-11-19",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.12/PD-Vids-Lab-v1.0.12.zip",
-  "changelog": "🩹 แนบรูปสินค้าไม่หลงรูปเก่า — Google Vids เปลี่ยนชื่อปุ่มลบรูป ทำให้รูปสินค้าตัวก่อนค้างปนงานใหม่ (คิวหลายสินค้า) · ตอนนี้ล้างรูปเก่าก่อนแนบทุกครั้ง",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.13/PD-Vids-Lab-v1.0.13.zip",
+  "changelog": "🩹 แก้ 'หาช่องแนบรูปไม่เจอ' — บางบัญชี Google Vids กล่องแนบรูปเหลือแค่ปุ่ม Ingredients (ไม่มีช่องอัปไฟล์) · ตอนนี้แนบรูปผ่านปุ่มนี้ได้แล้ว",
   "versions": [
+    {
+      "version": "1.0.13",
+      "date": "2026-11-19",
+      "changes": "🩹 แก้ 'หาช่องแนบรูปไม่เจอ' — บางบัญชี Google Vids กล่องแนบรูปเหลือแค่ปุ่ม Ingredients (ไม่มีช่องอัปไฟล์) · ตอนนี้แนบรูปผ่านปุ่มนี้ได้แล้ว"
+    },
     {
       "version": "1.0.12",
       "date": "2026-11-19",
