@@ -1,9 +1,14 @@
 {
-  "latest": "1.0.14",
-  "releaseDate": "2026-11-20",
-  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.14/PD-Vids-Lab-v1.0.14.zip",
-  "changelog": "🩹 แก้ 'หาช่องแนบรูปไม่เจอ' อีกรอบ — Google Vids เปลี่ยนปุ่มแนบรูปเป็น 'Add avatar or ingredients' (ช่องอัปไฟล์โผล่เฉพาะตอนเปิดเมนู) · ตอนนี้แนบรูปได้ตามเดิม + ตอนเจนไม่ผ่านบอกเหตุผลจริง เช่น 'โควตาเจนวิดีโอใน Google Vids ของบัญชีนี้หมดแล้ว' (เดิมขึ้นแค่ Try again)",
+  "latest": "1.0.15",
+  "releaseDate": "2026-11-21",
+  "downloadUrl": "https://github.com/spsocial/PD-Vids-Lab/releases/download/v1.0.15/PD-Vids-Lab-v1.0.15.zip",
+  "changelog": "🩹 แนบรูปรองรับหน้า Google Vids แบบใหม่ (บางบัญชีได้ปุ่มแนบรูปชื่อต่างกัน) · ถ้ายังหาไม่เจอ ข้อความแจ้งจะบอกชื่อปุ่มที่เห็นในหน้า",
   "versions": [
+    {
+      "version": "1.0.15",
+      "date": "2026-11-21",
+      "changes": "🩹 แนบรูปรองรับหน้า Google Vids แบบใหม่ (บางบัญชีได้ปุ่มแนบรูปชื่อต่างกัน) · ถ้ายังหาไม่เจอ ข้อความแจ้งจะบอกชื่อปุ่มที่เห็นในหน้า"
+    },
     {
       "version": "1.0.14",
       "date": "2026-11-20",
